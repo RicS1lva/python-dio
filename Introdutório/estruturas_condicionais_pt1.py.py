@@ -7,7 +7,7 @@ if idade_usuario >= MAIOR_IDADE:
     print("Maior de idade, pode tirar a CNH")
     
 if idade_usuario < MAIOR_IDADE:
-    print("Ainda não pode tirar CNH")
+    print("Ainda não pode tirar a CNH")
 
 
 if idade_usuario >= MAIOR_IDADE:
